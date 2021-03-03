@@ -2,7 +2,7 @@
   "name": "@mischegoss/github-pkg-demo",
   "repository" :{
     "url": "git://github.com/mischegoss/github-pkg-demo.git"
-  }
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
